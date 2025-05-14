@@ -1,9 +1,9 @@
 import './App.css';
-import LogIn from "./Components/LogIn";
+import createAccount from "./Components/CreateAccount";
 function App(){
     return(
         <div>
-            <LogIn />
+            <createAccount />
         </div>
     )
 }
