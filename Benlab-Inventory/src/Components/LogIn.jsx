@@ -1,5 +1,5 @@
 import '../App.css';
-function createAccount(){
+function logIn(){
     return(
         <div class="login flex h-screen gap-5 bg-gray-100">
             <div class="about-Image relative w-fill my-25 ml-25">
@@ -50,4 +50,4 @@ function createAccount(){
         </div>
     )
 }
-export default createAccount;
+export default logIn;
