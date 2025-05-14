@@ -1,0 +1,21 @@
+@import "tailwindcss";
+.about-Image .overlay{
+    background-color: #ACCAF2;
+}
+.about-Image button{
+    background-color: #22A2F2;
+}
+.create-account-button{
+    background-color: #22A2F2;
+}
+.sign-in-button{
+  background-color: #BBD8F2;  
+}
+.about-content input::placeholder{
+    padding: 10px;
+}
+
+.google-button{
+    border: 1px solid #22A2F2;
+    color: #22A2F2;
+}
